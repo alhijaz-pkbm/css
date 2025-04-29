@@ -1,0 +1,59 @@
+/*------Layout (No Edit)----------*/
+html,body#layout #outer-wrapper,body#layout .outer-container{width:auto;padding:0;}
+body#layout{position:relative;width:auto;max-width:100%;background:#ffffff;padding:95px 5px 0;margin:1px;border:1px solid #def2ff;}
+body#layout:before{content:"BazoEdu V.1.0.0";font-family:Arial;position:absolute;top:20px;right:20px;z-index:1;padding:6px 14px;font-size:17px;border-radius:2px;font-weight:bold;color:#636363;background:#fdfdfd;border:1px solid #cac9c9 !important;}
+body#layout div.section{display:block;background-color:#f3f3f3!important;margin:0 5px 10px!important;padding:16px 16px 18px!important;border-color:#009bde;border:0;}
+body#layout .section h4{font-size:14px;margin:0;!important;}
+body#layout .section h4:after{text-transform:initial;color:#6b6b6b;font-weight:400}
+body#layout .section h4,body#layout div.layout-title{display:-webkit-box}
+body#layout .widget-content{width:auto;max-width:none;max-height:none;margin:0;border:1px solid #3363ff;}
+body#layout .widget .widget-content a.editlink{border-radius:2px}
+body#layout .visibility .editlink{background:#3363ff url(https://1.bp.blogspot.com/-yggSg-F-GrY/YJbChcKAXNI/AAAAAAAABmk/hn1KE7b_qtEeu4EYEDnejdq17f0xZjz4QCLcBGAsYHQ/s20/edit-icon-iki.png) no-repeat center !important;}
+body#layout .visibility .editlink:hover{background-color:#029000 !important}
+body#layout .draggable-widget .widget-wrap2{background:#3363ff url(https://1.bp.blogspot.com/-hMi3I2lPKLQ/XcVHiWtl6GI/AAAAAAAAAPQ/M2XKqrvMItIH7dQdiEyH9cQ35lvkW36FgCNcBGAsYHQ/s1600/drag_gadgets_pikitemplates.png) no-repeat 4px 50%!important}
+body#layout .draggable-widget .widget-wrap1 .widget-wrap2{background-color:#3363ff!important}
+body#layout .visibility .layout-widget-state.visible{background-image:url(https://1.bp.blogspot.com/-uYbp0hXEKwo/XcVGwr7W7-I/AAAAAAAAAPI/lihmCldvuy0c0J54DHpqaZnQ9sZ-qv4zgCNcBGAsYHQ/s1600/Eye_Focus_by_pikitemplates.png)!important}
+body#layout .visibility .layout-widget-state.not-visible{background-image:url(https://1.bp.blogspot.com/-zsoXuAqK0Rs/YSrwXcPcFOI/AAAAAAAACHU/kJA24Ue423YlPX2svO7hSJEGNMcdcn-eACLcBGAsYHQ/s48/hidden.png)!important;background-size:24px!important;background-repeat:no-repeat;opacity:1;}
+body#layout .add_widget a{display:flex;color:#4385f5!important;!important;}
+body#layout div.admin-section{background-color:rgba(53 255 49/0.25) !important;overflow:hidden!important;border-color:#bcbcbc}
+body#layout .layout-widget-description{display:none}
+body#layout .admin-area,body#layout #main-menu .widget{display:block!important;width:100%;}
+body#layout .admin-area .widget-wrap1{margin:0 10px;}
+body#layout .admin-section .widget{float:left;width:50% !important;}
+body#layout #custom-ads-placeholder{display:flex!important}
+body#layout #custom-ads-placeholder .section{width:49%}
+body#layout .hamburger,body#layout .search-toggle,body#layout #nav-search,body#layout #HTML44{display:none}
+body#layout .header-left{display:flex;}
+body#layout #header-room1,.original-menu{width:50%;}
+body#layout #mega-wrap .widget,.rtl body#layout .add_widget a{display:block}
+body#layout .search-toggle,body#layout .section-sticky{display:none}
+body#layout #mega-wrap .widget{display:block}
+body#layout #center-container{margin:0}
+body#layout #center-container>.container{display:flex;margin:auto}
+body#layout #feed-view{width:68.66%;padding:0}
+body#layout #sidebar-container{width:33.33%;padding:0;display:block}
+body#layout .sidebar .widget,body#layout .sidebar .widget-content{float:none;overflow:visible}
+body#layout .fl-footer,body#layout .footer-outer{display:flex;}
+body#layout .Footer-Function,body#layout div#footer-checks-menu,body#layout div#footer-copyright{overflow:hidden!important;width:100%}
+body#layout .footer-primary{overflow:hidden !important;}
+body#layout .footer-primary div.widget{float:left !important;width:49% !important;}
+body#layout div#LinkList7{margin-left:1% !important;}
+body#layout .section > h4:after{font-size:12px;font-size:12px;font-weight:400;}
+body#layout #admin > h4:after{content:' - Change titles - comments system,related posts and no. of posts etc.'}
+body#layout #header-room1 > h4:after{content:' - Set Main Logo here with Dark Logo'}
+body#layout #original-menu > h4:after{content:' - Edit menu and submenu links here'}
+body#layout #hot-posts > h4:after{content:' - Trending/Popular Section'}
+body#layout #Alert-wrap > h4:after{content:' - Alert Message at Top'}
+body#layout #ft-pinned > h4:after{content:' - Pinned Posts section'}
+body#layout #ft-post > h4:after{content:' - Feature and Popular Posts both Gadgets'}
+body#layout #main-ads1 > h4:after,body#layout #main-ads0 > h4:after,body#layout #main-ads3 > h4:after{content:' - Ads Section place ad code here'}
+body#layout #main > h4:after{content:' - Recent Posts,Comments,no. of Posts etc.'}
+body#layout #upper-ad > h4:after{content:' - Post Inside top ads section (responsive)'}
+body#layout #lower-ad > h4:after{content:' - Post Inside botttom ads section (responsive)'}
+body#layout #main-ads-below > h4:after{content:' - Below recent Posts ads section (responsive)'}
+body#layout #main-ads2 > h4:after{content:' - Bottom Footer Ads Section (responsive)'}
+body#layout #Footer-Function3 > h4:after{content:' - Change footer logo and caption'}
+body#layout #footer-checks-menu > h4:after{content:' - Footer Pages Links'}
+body#layout #footer-copyright > h4:after{content:' - Footer Copyright Link'}
+body#layout #sidebar > h4:after{content:' - Sidebar widgets'}
+body#layout #cookies > h4:after{content:' - Change Cookies Consent from here'}
